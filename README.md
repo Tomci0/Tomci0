@@ -6,7 +6,7 @@
 ### <div align="center">I'm Tomci0, freelance developer 👨‍💻 I've been learning programming since 2019 🚀</div>  
   
 
-- 👾 I'm currently working on the FiveM UndefinedRP.  
+- 👾 I'm currently working on the FiveM VirtualLife and other summer project.  
   
 
 - 🌱 I’m currently learning JS and frameworks for JS  
